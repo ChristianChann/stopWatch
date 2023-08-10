@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(27, 25, 25, 0.356);
+}
+
+button{
+    margin: 10px;
+}
+
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stopWatch{
+    color: rgba(182, 132, 23, 0.637);
+    font-size: 200px;
+    font-weight: bold;
+}
+
